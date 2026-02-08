@@ -5,7 +5,7 @@ import react from '@astrojs/react';
 
 export default defineConfig({
   site: 'https://isanthoshkumar76-tech.github.io',
-base: '/mechanical-mercury/',
+base: '/macroelmech/',
   devToolbar: { enabled: false },
   vite: { plugins: [tailwindcss()] },
   integrations: [react()],
